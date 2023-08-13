@@ -1,23 +1,23 @@
 # Regulamento
 
-[BCC_RegulamentoTCC](./Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
+[SIS_RegulamentoTCC](./Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
-## Resumo Regulamento do TCC do BCC
+## Resumo Regulamento do TCC do SIS
 
 - usar o último regulamento aprovado.  
-- TCC1 é pré-requisito de TCC2 [Capítulo I](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares) e [Capítulo III](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iii---da-carga-horária-da-matr%C3%ADcula-e-da-frequência)  
-- integrar teoria e prática [Capítulo II](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-ii---dos-objetivos)  
-- método científico - além de ter o sistema, ter algum tipo de validação do sistema [Capítulo II](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-ii---dos-objetivos)  
-- objetivo da disciplina de TCC I [Capítulo II](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-ii---dos-objetivos)  
-- entrega do termo de compromisso, pré-projeto e projeto [Capítulo IV](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iv---do-in%C3%ADcio-do-desenvolvimento-e-da-conclusão)  
-- projeto válido por dois semestres [Capítulo IV](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iv---do-in%C3%ADcio-do-desenvolvimento-e-da-conclusão)  
-- quem pode ser o orientador [Capítulo V](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-v---da-organização)  
-- quem pode ser o coorientador [Capítulo V](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-v---da-organização)  
-- o que compete ao acadêmico (orientando) [Capítulo VI](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-vi---das-atribuições)  
-- autenticidade, falsificação .. sanções administrativas e legais [Capítulo VI](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-vi---das-atribuições)  
-- seguir as Normas Técnicas [Capítulo VII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-vii---da-estrutura)  
-- casos de reprovação e nota [Capítulo VIII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-viii---da-avaliação)  
-- tempos para apresentação [Capítulo VIII](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-viii---da-avaliação)  
+- TCC1 é pré-requisito de TCC2  
+- TCC2 tem pré-requisitos de algumas disciplinas  
+- objetivo da disciplina de TCC I  
+- entrega do termo de compromisso, pré-projeto e projeto  
+- projeto válido por dois semestres  
+- quem pode ser o orientador  
+- quem pode ser o supervisor/mentor  
+- quem pode ser o coorientador  
+- o que compete ao acadêmico (orientando)  
+- autenticidade, falsificação .. sanções administrativas e legais  
+- seguir as Normas Técnicas  
+- casos de reprovação e nota  
+- tempos para apresentação  
 
 ## Geral
 

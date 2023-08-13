@@ -39,11 +39,11 @@
 ## Tipos de TCC: visão geral
 
 <!-- FIXME: Fazer um fluxograma (mapa de tempo, usar data atual para marcar no mapa o que já passou) no DrawIO do que ocorre nos dois projetos. Tentar usar variáveis para datas do cronograma. E colocar links nas caixas do fluxograma com o material -->
-- Visão geral de como ocorre o fluxograma para BCC  
+- Visão geral de como ocorre o fluxograma para SIS  
 
 ## Cronograma
 
-[Cronograma](../Cronogramas/ "Cronograma_BCC")  
+[Cronograma](../Cronogramas/ "Cronograma_SIS")  
 
 ## Regulamentos do TCC
 
@@ -61,7 +61,7 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 
 ### [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
 
-[BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
 ----------
 
